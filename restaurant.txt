@@ -1,0 +1,10 @@
+Restaurantul A, 5, 800, 1000, 1200, 1500, 2000, 10
+Restaurantul B, 10, 600, 700, 800, 900, 1000, 20
+Restaurantul C, 8, 400, 500, 600, 700, 800, 15
+Restaurantul D, 6, 300, 400, 500, 600, 700, 8
+Restaurantul E, 12, 700, 800, 900, 1000, 1100, 25
+Restaurantul F, 7, 500, 600, 700, 800, 900, 12
+Restaurantul G, 9, 600, 700, 800, 900, 1000, 18
+Restaurantul H, 11, 800, 900, 1000, 1100, 1200, 22
+Restaurantul I, 6, 400, 500, 600, 700, 800, 10
+Restaurantul J, 15, 1000, 1200, 1500, 1800, 2000, 30
